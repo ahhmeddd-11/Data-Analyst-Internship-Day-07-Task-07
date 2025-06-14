@@ -17,7 +17,7 @@ This task involves generating a basic sales summary from a small SQLite database
 
 ## Deliverables
 
-- Jupyter Notebook (`task07.ipynb`)
+- Jupyter Notebook (`task-07.ipynb`)
 - SQLite database (`sales_data.db`)
 - Bar chart image (`sales_chart.png`)
 
